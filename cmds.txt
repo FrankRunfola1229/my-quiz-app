@@ -2,7 +2,7 @@ aws
 
 Access key ID	        Secret access key
 --------------------    ------------------------------------------
-AKIATWL3TSKLUIAFLIDQ	rPEBynTryUgpbEgFE3KRCCiQyUEnh7WCyxbJ/QF7
+
 
 
 npm install -g @aws-amplify/cli
