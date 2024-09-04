@@ -1,0 +1,59 @@
+aws
+
+Access key ID	        Secret access key
+--------------------    ------------------------------------------
+AKIATWL3TSKLUIAFLIDQ	rPEBynTryUgpbEgFE3KRCCiQyUEnh7WCyxbJ/QF7
+
+
+npm install -g @aws-amplify/cli
+
+amplify configure
+
+npx create-react-app <name of your app>
+
+cd <name of your app>
+
+amplify init
+
+amplify add auth
+
+amplify push
+
+npm install aws-amplify @aws-amplify/ui-react
+
+npm start
+
+git init
+
+git add .
+
+git commit –m "Initial commit"
+
+git branch –M main
+
+git remote add origin https://github.com/FrankRunfola1229/amplify-cognito-quiz.git
+
+git push –u origin main
+
+
+
+
+
+
+git clone https://github.com/FrankRunfola1229/amplify-cognito-quiz.git
+
+…or create a new repository on the command line
+-------------------------------------------------------
+echo "# amplify-cognito-quiz" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/FrankRunfola1229/amplify-cognito-quiz.git
+git push -u origin main
+
+…or push an existing repository from the command line
+-------------------------------------------------------
+git remote add origin https://github.com/FrankRunfola1229/amplify-cognito-quiz.git
+git branch -M main
+git push -u origin main
